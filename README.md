@@ -45,5 +45,5 @@ drupalcontribstats --list mycustomlist.txt paragraphs
 
 Outputs the names of all the projects scanned and the contributors with their totals
 ```
-drupalcontribstats commerce commerce_pos --verbose
+drupalcontribstats --verbose commerce commerce_pos
 ```
