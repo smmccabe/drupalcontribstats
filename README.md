@@ -2,6 +2,16 @@
 
 Simple go app for pulling and scanning through drupal modules and totalling up the unique number of contributors. Right now it is fairly hardcoded and doesn't take many parameters
 
+## Installation
+
+### Linux
+
+```
+wget https://github.com/smmccabe/drupalcontribstats/releases/download/v0.1.0/drupalcontribstats-linux-amd64
+sudo mv drupalcontribstats-linux-amd64 /usr/local/bin/drupalcontribstats
+sudo chmod +x /usr/local/bin/drupalcontribstats
+```
+
 ## Usage
 
 ```
